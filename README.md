@@ -1,5 +1,5 @@
 <h1 align="center">Hi There </h1>
-<h3 align="center"> i'm an AI Undergraduate · Machine Learning & Deep Learning · Computer Vision & Time-Series Forecasting</h3>
+<h3 align="center"> I'm an AI Undergraduate · Machine Learning & Deep Learning · Computer Vision & Time-Series Forecasting</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mirana-moh" target="_blank">
