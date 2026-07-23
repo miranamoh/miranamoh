@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm an Artificial Intelligence undergraduate with a strong interest in building Machine Learning and Deep Learning systems that go beyond the notebook — practical AND well-engineered. What draws me to AI is the process of turning raw, messy data into something that actually works and solves a real problem: a model that predicts, a system that recognizes, a dashboard someone can interact with.
+I'm an Artificial Intelligence undergraduate with a strong interest in building Machine Learning and Deep Learning systems that go beyond the notebook practical AND well-engineered. What draws me to AI is the process of turning raw, messy data into something that actually works and solves a real problem: a model that predicts, a system that recognizes, a dashboard someone can interact with.
 
 My work so far spans three areas I'm particularly passionate about:
 
